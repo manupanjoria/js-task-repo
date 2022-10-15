@@ -1,0 +1,55 @@
+ {
+    "users" :[
+        {
+            "firstName": "Oliver",
+            "lastName": "Jake",
+            "isActive": true,
+            "role": "student",
+            "registeredAt": 1
+        },
+        {
+            "firstName": "Connor",
+            "lastName": "Liam",
+            "isActive": true,
+            "role": "student",
+            "registeredAt": 2
+        },
+        {
+            "firstName": "Charlie",
+            "lastName": "",
+            "isActive": true,
+            "role": "admin",
+            "registeredAt": 3
+        },
+        {
+            "firstName": "Thomas",
+            "lastName": "",
+            "isActive": true,
+            "role": "student",
+            "registeredAt": 4
+        },
+         {
+            "firstName": "George",
+            "lastName": "Reece",
+            "isActive": true,
+            "role": "superAdmin",
+            "registeredAt": 5
+        },
+        {
+            "firstName": "Oscar",
+            
+            "lastName": "Rhys",
+            "isActive": false,
+            "role": "superAdmin",
+            "registeredAt": 7
+        },
+        {
+            "firstName": "William",
+            "lastName" :"Damian",
+            "isActive": false,
+             "role": "student",
+            "registeredAt": 6
+        }
+    ]
+    
+ }
